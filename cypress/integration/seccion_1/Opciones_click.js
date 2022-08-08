@@ -24,8 +24,8 @@ describe("Opciones de click", () => {
     })
 
 
-    //Probando otra vez el github otra vez
-    
+    //corrigiendo
+
 
 })// Cierre de Describe
 
