@@ -19,6 +19,8 @@ describe("Opciones de click", () => {
         cy.wait(1500)
         cy. get("#menu_time_viewTimeModule > b").should("be.visible").click()
     
+
+        //una vez mas
     })
 
 })// Cierre de Describe
