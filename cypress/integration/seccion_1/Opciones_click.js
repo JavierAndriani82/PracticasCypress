@@ -18,6 +18,8 @@ describe("Opciones de click", () => {
         cy. get("#menu_admin_viewAdminModule > b").should("be.visible").click()
         cy.wait(1500)
         cy. get("#menu_time_viewTimeModule > b").should("be.visible").click()
+
+        //probando el pull
     
     })
 
