@@ -22,5 +22,5 @@ describe("Opciones de click", () => {
     })
 
 
-})
+})//cierre
 
