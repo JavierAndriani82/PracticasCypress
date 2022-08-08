@@ -1,0 +1,40 @@
+
+[
+    {
+        "nombre": "rodrigo",
+        "apellido": "garcia",
+        "email": "andrianijavier@gmail.com",
+        "telefono": "6464564566"
+    },
+
+    {
+        "nombre": "rodrigo1",
+        "apellido": "garcia1",
+        "email": "andrianijavier1@gmail.com",
+        "telefono": "6464564561"
+    },
+
+    {
+        "nombre": "rodrigo2",
+        "apellido": "garcia2",
+        "email": "andrianijavier2@gmail.com",
+        "telefono": "6464564562"
+    },
+
+    {
+        "nombre": "rodrigo3",
+        "apellido": "garcia3",
+        "email": "andrianijavier3@gmail.com",
+        "telefono": "6464564563"
+    },
+
+    {
+        "nombre": "rodrigo4",
+        "apellido": "garcia4",
+        "email": "andrianijavier4@gmail.com",
+        "telefono": "6464564564"
+    }
+
+
+
+]

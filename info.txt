@@ -1,0 +1,17 @@
+Istalacion de cucumber
+
+1- npm install --save-dev cypress-cucumber-preprocessor
+2 configurar en index.js
+
+const cucumber = require('cypress-cucumber-preprocessor').default
+
+module.exports = (on, config) => {
+  on('file:preprocessor', cucumber())
+
+3- en cypress.json meter ....
+"testfiles": "**/*.feature"
+
+4- vamos a package.json e ingresamos 
+"cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
